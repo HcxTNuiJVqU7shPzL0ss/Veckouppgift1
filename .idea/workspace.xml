@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9c9d07a-6f98-4bbf-92b5-1252a99441a3" name="Changes" comment="First time adding to this project&#10;&#10;Adding code as to complete the assignment">
-      <change afterPath="$PROJECT_DIR$/discuss.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d9c9d07a-6f98-4bbf-92b5-1252a99441a3" name="Changes" comment="Adding new file&#10;&#10;Second part of the assignment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HcxTNuiJVqU7shPzL0ss"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/HcxTNuiJVqU7shPzL0ss/Veckouppgift1",
@@ -65,11 +68,20 @@
       <option name="project" value="LOCAL" />
       <updated>1736415421316</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding new file&#10;&#10;Second part of the assignment">
+      <option name="closed" value="true" />
+      <created>1736416284206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736416284206</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First time adding to this project&#10;&#10;Adding code as to complete the assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="First time adding to this project&#10;&#10;Adding code as to complete the assignment" />
+    <MESSAGE value="Adding new file&#10;&#10;Second part of the assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding new file&#10;&#10;Second part of the assignment" />
   </component>
 </project>

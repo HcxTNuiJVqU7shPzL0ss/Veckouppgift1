@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9c9d07a-6f98-4bbf-92b5-1252a99441a3" name="Changes" comment="Adding new file&#10;&#10;Assignment for variables and&#10;data types added">
-      <change afterPath="$PROJECT_DIR$/variables_datatypes.py" afterDir="false" />
+    <list default="true" id="d9c9d07a-6f98-4bbf-92b5-1252a99441a3" name="Changes" comment="Minor edits&#10;&#10;GitHub does not seem to want to&#10;display ending newlines&#10;Edit to only have one ending newline&#10;per file">
+      <change afterPath="$PROJECT_DIR$/more_4.1a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,23 +16,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "HcxTNuiJVqU7shPzL0ss"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HcxTNuiJVqU7shPzL0ss&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HcxTNuiJVqU7shPzL0ss/Veckouppgift1",
-    "accountId": "f2fce246-f7b5-4d97-8c62-5d3f5aa80bc4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HcxTNuiJVqU7shPzL0ss/Veckouppgift1&quot;,
+    &quot;accountId&quot;: &quot;f2fce246-f7b5-4d97-8c62-5d3f5aa80bc4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2rO0ouE2uUkBMLaGmEuONY5qPKh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,10 +43,13 @@
   "keyToString": {
     "Python.discuss.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.more_4.1a.executor": "Run",
     "Python.variables_datatypes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/rock_/PycharmProjects/PythonProject",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -96,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736420828847</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Minor edits&#10;&#10;GitHub does not seem to want to&#10;display ending newlines&#10;Edit to only have one ending newline&#10;per file">
+      <option name="closed" value="true" />
+      <created>1736420915141</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736420915141</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -104,6 +117,7 @@
     <MESSAGE value="Adding new file&#10;&#10;Second part of the assignment" />
     <MESSAGE value="Adding newline&#10;&#10;Learning how to display an ending newline&#10;both in PyCharm and GitHub" />
     <MESSAGE value="Adding new file&#10;&#10;Assignment for variables and&#10;data types added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding new file&#10;&#10;Assignment for variables and&#10;data types added" />
+    <MESSAGE value="Minor edits&#10;&#10;GitHub does not seem to want to&#10;display ending newlines&#10;Edit to only have one ending newline&#10;per file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor edits&#10;&#10;GitHub does not seem to want to&#10;display ending newlines&#10;Edit to only have one ending newline&#10;per file" />
   </component>
 </project>

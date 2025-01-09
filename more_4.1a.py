@@ -75,11 +75,14 @@ os.system('cls' if os.name == 'nt' else 'clear')
 
 # Another way to get the values, more for "1c" of assignment
 print("\nAnd yet another way to display the time!")
-calc_hour = time_s // 3600
+
+calc_hour = time_s // 3600 # h as the integral part of the quotient
 print(int(calc_hour) , "h")
+
 remaining_seconds = time_s % 3600
 calc_min = remaining_seconds // 60
 print(int(calc_min) , "min")
+
 calc_sec = int(remaining_seconds % 60)
 print(int(remaining_seconds % 60) , "sec")
 

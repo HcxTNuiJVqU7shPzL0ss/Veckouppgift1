@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9c9d07a-6f98-4bbf-92b5-1252a99441a3" name="Changes" comment="Adding &quot;4.1&quot;&#10;&#10;First part of the more advances exercises">
-      <change afterPath="$PROJECT_DIR$/more_4.2.py" afterDir="false" />
+    <list default="true" id="d9c9d07a-6f98-4bbf-92b5-1252a99441a3" name="Changes" comment="Adding 4.2&#10;&#10;New file also handling exercise 4.2">
+      <change afterPath="$PROJECT_DIR$/more_4.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/more_4.1a.py" beforeDir="false" afterPath="$PROJECT_DIR$/more_4.1a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
     "Python.main.executor": "Run",
     "Python.more_4.1a.executor": "Run",
     "Python.more_4.2.executor": "Run",
+    "Python.more_4.3.executor": "Run",
     "Python.variables_datatypes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -119,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736429614450</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adding 4.2&#10;&#10;New file also handling exercise 4.2">
+      <option name="closed" value="true" />
+      <created>1736433359057</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736433359057</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,6 +137,7 @@
     <MESSAGE value="Adding new file&#10;&#10;Assignment for variables and&#10;data types added" />
     <MESSAGE value="Minor edits&#10;&#10;GitHub does not seem to want to&#10;display ending newlines&#10;Edit to only have one ending newline&#10;per file" />
     <MESSAGE value="Adding &quot;4.1&quot;&#10;&#10;First part of the more advances exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding &quot;4.1&quot;&#10;&#10;First part of the more advances exercises" />
+    <MESSAGE value="Adding 4.2&#10;&#10;New file also handling exercise 4.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding 4.2&#10;&#10;New file also handling exercise 4.2" />
   </component>
 </project>

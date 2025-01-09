@@ -139,4 +139,3 @@ print("Your price for the jacket will be:", final_price2b, "kr")
 # End this part
 input("Press Enter to finish!")
 print("This is the end of 2b, thank you for playing!")
-

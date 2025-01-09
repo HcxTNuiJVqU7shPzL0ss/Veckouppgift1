@@ -19,4 +19,3 @@ print("Det blir " + str(left_over_cash) + " kronor över.")
 half_left_over = left_over_cash / 2
 
 print("Hälften är: " + str(half_left_over) + " kr.")
-

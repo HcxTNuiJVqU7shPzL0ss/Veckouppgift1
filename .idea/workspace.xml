@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9c9d07a-6f98-4bbf-92b5-1252a99441a3" name="Changes" comment="Adding newline&#10;&#10;Learning how to display an ending newline&#10;both in PyCharm and GitHub">
+    <list default="true" id="d9c9d07a-6f98-4bbf-92b5-1252a99441a3" name="Changes" comment="Adding new file&#10;&#10;Assignment for variables and&#10;data types added">
       <change afterPath="$PROJECT_DIR$/variables_datatypes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -88,13 +88,22 @@
       <option name="project" value="LOCAL" />
       <updated>1736416404650</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding new file&#10;&#10;Assignment for variables and&#10;data types added">
+      <option name="closed" value="true" />
+      <created>1736420828847</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736420828847</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First time adding to this project&#10;&#10;Adding code as to complete the assignment" />
     <MESSAGE value="Adding new file&#10;&#10;Second part of the assignment" />
     <MESSAGE value="Adding newline&#10;&#10;Learning how to display an ending newline&#10;both in PyCharm and GitHub" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding newline&#10;&#10;Learning how to display an ending newline&#10;both in PyCharm and GitHub" />
+    <MESSAGE value="Adding new file&#10;&#10;Assignment for variables and&#10;data types added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding new file&#10;&#10;Assignment for variables and&#10;data types added" />
   </component>
 </project>

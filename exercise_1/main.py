@@ -1,10 +1,12 @@
-# Jan Berglund
-
+#####################################################################
+# Jan Berglund - main.py
+#
 # Veckouppgift 1
 # Vecka 2, 8/1
 # 1 Skapa projekt och synka med GitHub
 #
 # Programmering med Python, 20yhp
+#####################################################################
 
 
 # Name to use in printout

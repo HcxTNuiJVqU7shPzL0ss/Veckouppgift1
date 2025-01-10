@@ -1,10 +1,12 @@
-# Jan Berglund
-
+#####################################################################
+# Jan Berglund - discuss.py
+#
 # Veckouppgift 1
 # Vecka 2, 8/1
 # 2 Diskutera i grupp
 #
 # Programmering med Python, 20yhp
+#####################################################################
 
 
 # Defines a ticket price and how much

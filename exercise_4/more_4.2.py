@@ -1,5 +1,6 @@
-# Jan Berglund
-
+#####################################################################
+# Jan Berglund - more_4.2.py
+#
 # Programmering med Python, 20yhp
 # Veckouppgift 1
 # Vecka 2, 8/1
@@ -10,6 +11,7 @@
 # Skriv ett program som räknar ut längden på hypotenusan i
 # en rätvinklig triangel.
 # Användaren behöver skriva in längden på de två kortare sidorna.
+#####################################################################
 
 
 import math

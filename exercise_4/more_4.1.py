@@ -1,5 +1,6 @@
-# Jan Berglund
-
+#####################################################################
+# Jan Berglund - more_4.1.py
+#
 # Veckouppgift 1
 # Vecka 2, 8/1
 #
@@ -12,6 +13,7 @@
 # Du behöver fråga användaren hur fort man ska köra, i km/h.
 #
 # Notera att "1b" samt "1c" även dessa hanteras
+#####################################################################
 
 
 import os
@@ -86,7 +88,7 @@ print(int(calc_min) , "min")
 calc_sec = int(remaining_seconds % 60)
 print(int(remaining_seconds % 60) , "sec")
 
-print("\n1c:" , int(calc_hour) , "hours" , int(calc_min) ,\
+print("\n1c:" , int(calc_hour) , "hours" , int(calc_min) ,
       "minutes" , calc_sec , "seconds")
 
 input("\nPress Enter to continue!")

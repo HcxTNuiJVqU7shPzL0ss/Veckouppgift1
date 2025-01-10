@@ -16,7 +16,7 @@
 #####################################################################
 
 
-import os
+#import os
 
 
 print("\nThis is 4:1a (also b and c further down)")
@@ -60,7 +60,7 @@ print("The total time in hours is" , time_h , "h")
 input("\nPress Enter to continue!")
 # Below would clear the terminal, if running in an actual terminal
 # Does not work in PyCharm
-os.system('cls' if os.name == 'nt' else 'clear')
+#os.system('cls' if os.name == 'nt' else 'clear')
 
 
 # Display a bit different using built-in feature
@@ -72,7 +72,7 @@ print("\nTime in different format:" , time_format , "(Hr:Min:Sec)")
 input("\nPress Enter to continue!")
 # Below would clear the terminal, if running in an actual terminal
 # Does not work in PyCharm
-os.system('cls' if os.name == 'nt' else 'clear')
+#os.system('cls' if os.name == 'nt' else 'clear')
 
 
 # Another way to get the values, more for "1c" of assignment
@@ -94,4 +94,4 @@ print("\n1c:" , int(calc_hour) , "hours" , int(calc_min) ,
 input("\nPress Enter to continue!")
 # Below would clear the terminal, if running in an actual terminal
 # Does not work in PyCharm
-os.system('cls' if os.name == 'nt' else 'clear')
+#os.system('cls' if os.name == 'nt' else 'clear')

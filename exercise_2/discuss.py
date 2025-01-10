@@ -14,6 +14,8 @@
 ticket_price = 100 # biljettpris
 initial_cash = 200 # pengar på fickan
 
+print("\nExercise 2")
+
 # Calculate how much money is left post purchase
 left_over_cash = initial_cash - ticket_price
 

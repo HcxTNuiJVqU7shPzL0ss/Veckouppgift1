@@ -13,8 +13,8 @@
 from int_input_def import userint_input
 
 
-# First need to run "1a" to get the first integer
-print("\nFirst input an integer as in 1a")
+# First need to (re)run "1a" to get the first integer
+print("\nFirst input an integer as in 1a\n")
 first_int = userint_input("Please type an integer, then press enter: ")
 
 
@@ -38,11 +38,15 @@ if second_int == first_int:
     print("\nSadly the second integer: " + str(second_int) +\
           ", was the same as the first integer: " + str(first_int) +\
           "\n")
+else:
+    print("\nYay, the integers are different, second was: " + str(second_int) +\
+          ", and the first was: " + str(first_int) +\
+          "\n")
 
 sum1a1b = second_int + first_int
 
 print("The sum of your two integers is:", sum1a1b)
 
 # End this part
-input("Press Enter to finish!")
+input("\nPress Enter to finish!")
 print("This is the end of 1b, thank you for playing!")

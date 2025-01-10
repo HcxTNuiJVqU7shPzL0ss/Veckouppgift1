@@ -17,8 +17,7 @@ print("\nThis is 2b, it will ask you for a discount percentage (as an integer)")
 input("Press Enter to continue!")
 
 # Base values to use, as of assignment
-price_initial2a = 2000
-discount_percentage2a = 50
+price_initial = 2000
 
 
 # Ask for and save an integer in a variable
@@ -38,9 +37,9 @@ while True:
 
 
 # Calculate the final price
-final_price2b = price_initial2a - (price_initial2a * discount_percentage2b / 100)
+final_price2b = price_initial - (price_initial * discount_percentage2b / 100)
 
-print("Initial price was " + str(price_initial2a) + " kr, the discount percentage is " +\
+print("Initial price was " + str(price_initial) + " kr, the discount percentage is " +\
       str(discount_percentage2b) + "%")
 print("Your price for the jacket will be:", final_price2b, "kr")
 

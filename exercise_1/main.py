@@ -12,6 +12,8 @@
 # Name to use in printout
 name = "Jan Berglund"
 
+print("\nExercise 1")
+
 # Exercise is defined to type out two lines in terminal
 print("\nHello world")
 print("This program was made by " + name)

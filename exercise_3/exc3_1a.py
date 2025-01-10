@@ -8,7 +8,11 @@
 #####################################################################
 
 
-# --------------------------------------------
+# Import function, mainly to be able to rerun "1a"
+# This is to be able to have 1a and 1b in separate files
+from int_input_def import userint_input
+
+
 # 1a Använd input för att be användaren om ett heltal.
 # Spara värdet i en variabel.
 # Omvandla variabelns värde till ett heltal,
@@ -18,19 +22,8 @@
 print("\nThis is 1a, where you will be asked to enter an integer")
 input("Press Enter to continue!\n")
 
-# Ask for and save an integer in a variable
-# Throw ValueError if incorrect input (not an integer), then try again
-# Made as a function to be able to reuse in "1b" as a separate file
-def userint_1a():
-    while True:
-        try:
-            user_int = int(input("Please type an integer, then press enter: "))
-            return user_int
-            break
-        except ValueError:
-            print("\nNot an integer, please try again!\n")
+user_int = userint_input("Please type an integer, then press enter: ")
 
-user_int = userint_1a()
 print("\nYour selected integer was:", user_int)
 
 # End this exercise

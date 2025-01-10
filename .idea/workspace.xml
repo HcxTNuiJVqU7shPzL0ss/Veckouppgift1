@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9c9d07a-6f98-4bbf-92b5-1252a99441a3" name="Changes" comment="Defined function&#10;&#10;Edited &quot;4.2&quot; as to use a function&#10;instead of repeating the same thing&#10;twice&#10;For now leaving older code as&#10;&quot;comments&quot;">
+    <list default="true" id="d9c9d07a-6f98-4bbf-92b5-1252a99441a3" name="Changes" comment="Directory management&#10;&#10;Created directories for the exercises&#10;Moved relevant files into the directories&#10;Better overview of files and structure">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_2/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_2/discuss.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_2/discuss.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +59,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rock_\PycharmProjects\Veckouppgift1\exercise_4" />
+      <recent name="C:\Users\rock_\PycharmProjects\Veckouppgift1\exercise_3" />
+      <recent name="C:\Users\rock_\PycharmProjects\Veckouppgift1\exercise_2" />
+      <recent name="C:\Users\rock_\PycharmProjects\Veckouppgift1\exercise_1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -142,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736497431418</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Directory management&#10;&#10;Created directories for the exercises&#10;Moved relevant files into the directories&#10;Better overview of files and structure">
+      <option name="closed" value="true" />
+      <created>1736499639686</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736499639686</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,6 +176,7 @@
     <MESSAGE value="Adding 4.2&#10;&#10;New file also handling exercise 4.2" />
     <MESSAGE value="Adding 4.3&#10;&#10;New file also handling exercise 4.3" />
     <MESSAGE value="Defined function&#10;&#10;Edited &quot;4.2&quot; as to use a function&#10;instead of repeating the same thing&#10;twice&#10;For now leaving older code as&#10;&quot;comments&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Defined function&#10;&#10;Edited &quot;4.2&quot; as to use a function&#10;instead of repeating the same thing&#10;twice&#10;For now leaving older code as&#10;&quot;comments&quot;" />
+    <MESSAGE value="Directory management&#10;&#10;Created directories for the exercises&#10;Moved relevant files into the directories&#10;Better overview of files and structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Directory management&#10;&#10;Created directories for the exercises&#10;Moved relevant files into the directories&#10;Better overview of files and structure" />
   </component>
 </project>

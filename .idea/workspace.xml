@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9c9d07a-6f98-4bbf-92b5-1252a99441a3" name="Changes" comment="Adding 4.3&#10;&#10;New file also handling exercise 4.3">
+    <list default="true" id="d9c9d07a-6f98-4bbf-92b5-1252a99441a3" name="Changes" comment="Defined function&#10;&#10;Edited &quot;4.2&quot; as to use a function&#10;instead of repeating the same thing&#10;twice&#10;For now leaving older code as&#10;&quot;comments&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/more_4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/more_4.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736435201347</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Defined function&#10;&#10;Edited &quot;4.2&quot; as to use a function&#10;instead of repeating the same thing&#10;twice&#10;For now leaving older code as&#10;&quot;comments&quot;">
+      <option name="closed" value="true" />
+      <created>1736497431418</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736497431418</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -147,6 +154,7 @@
     <MESSAGE value="Adding &quot;4.1&quot;&#10;&#10;First part of the more advances exercises" />
     <MESSAGE value="Adding 4.2&#10;&#10;New file also handling exercise 4.2" />
     <MESSAGE value="Adding 4.3&#10;&#10;New file also handling exercise 4.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding 4.3&#10;&#10;New file also handling exercise 4.3" />
+    <MESSAGE value="Defined function&#10;&#10;Edited &quot;4.2&quot; as to use a function&#10;instead of repeating the same thing&#10;twice&#10;For now leaving older code as&#10;&quot;comments&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Defined function&#10;&#10;Edited &quot;4.2&quot; as to use a function&#10;instead of repeating the same thing&#10;twice&#10;For now leaving older code as&#10;&quot;comments&quot;" />
   </component>
 </project>
